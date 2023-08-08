@@ -1,0 +1,25 @@
+ETAPAS AO ACORDAR EM PORTUGOL
+
+1ª Etapa
+1) Abrir os olhos;
+2) Desligar o despertador, se houver;
+3) Levantar da cama;
+4) Calçar os chinelos;
+
+2ª Etapa
+1) Após levantar da cama e calçar os chinelos, abrir a porta girando a manivela 180 graus em sentido anti-horário;
+2) Caminhar até o banheiro;
+3) Urinar. Após concluído, dar a descarga no vaso sanitário;
+4) Lavar as mãos;
+5) Pegar a escova de dentes e passar creme dental;
+6) Escovar os dentes;
+7) Enxaguar a boca.
+
+3ª Etapa
+1) Ir até a cozinha;
+2) Abrir o armário e procurar o item denominado "café";
+3) Pegar o café e por um número x no depósito da cafeteria;
+4) Adicionar água no reservatório da cafeteira;
+5) Ligar e aguardar estar pronto;
+6) Por o líquido pronto em uma xícara;
+7) Beber o café - assim estará pronto para o dia!
